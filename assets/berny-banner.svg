@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="320" viewBox="0 0 1300 320" role="img" aria-labelledby="title desc">
+  <title id="title">Berny Campos</title>
+  <desc id="desc">Developer, UI and infrastructure. A blue to violet gradient banner.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="52%" stop-color="#213B70"/>
+      <stop offset="100%" stop-color="#7953D9"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#B9A8FF" stop-opacity=".37"/>
+      <stop offset="100%" stop-color="#B9A8FF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#35B7EB"/>
+      <stop offset="100%" stop-color="#C6A5FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1300" height="320" rx="15" fill="url(#background)"/>
+  <circle cx="1060" cy="60" r="330" fill="url(#glow)"/>
+  <circle cx="150" cy="275" r="230" fill="#3BA9EB" opacity=".075"/>
+  <g fill="none" stroke="#D8CEFF" stroke-opacity=".15">
+    <circle cx="1078" cy="120" r="125" stroke-width="1.3"/>
+    <circle cx="1078" cy="120" r="175" stroke-width="1.1"/>
+    <circle cx="1078" cy="120" r="225" stroke-width="1"/>
+    <path d="M850 0 1100 320M990 0 1240 320M1130 0 1300 218" stroke-width="1"/>
+  </g>
+  <path d="M0 275 C250 300 420 301 650 288 S1050 264 1300 285" fill="none" stroke="url(#wave)" stroke-opacity=".60" stroke-width="2.5"/>
+  <text x="650" y="142" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="67" font-weight="750" letter-spacing="-.8">Berny Campos</text>
+  <text x="650" y="194" text-anchor="middle" fill="#D8E4FC" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="450" letter-spacing="1">DEVELOPER  &#8226;  UI  &#38;  INFRASTRUCTURE</text>
+  <rect x="520" y="224" width="260" height="2" rx="1" fill="url(#wave)" opacity=".8"/>
+</svg>
