@@ -1,5 +1,9 @@
-<!-- GitHub profile README for https://github.com/BernyCampos --><div align="center">
-  <img width="100%" alt="Berny Campos — Developer, UI and Infrastructure" src="./assets/berny-banner.svg" />  <a href="https://github.com/BernyCampos?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/BernyCampos?label=Followers&amp;style=for-the-badge&amp;color=7C3AED&amp;labelColor=111827" /></a>
+<!-- GitHub profile README for https://github.com/BernyCampos -->
+
+<div align="center">
+  <img width="100%" alt="Berny Campos — Developer, UI and Infrastructure" src="./assets/berny-banner.svg" />
+
+  <a href="https://github.com/BernyCampos?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/BernyCampos?label=Followers&amp;style=for-the-badge&amp;color=7C3AED&amp;labelColor=111827" /></a>
 <a href="https://github.com/BernyCampos?tab=repositories"><img alt="Explore repositories" src="https://img.shields.io/badge/Explore-Repositories-38BDF8?style=for-the-badge&amp;labelColor=111827" /></a>
 <a href="https://github.com/BernyCampos/aether-ui"><img alt="Pelican Panel themes" src="https://img.shields.io/badge/Pelican%20Panel-Theme%20Developer-A78BFA?style=for-the-badge&amp;labelColor=111827" /></a>
 
@@ -93,6 +97,8 @@ My goal is simple: make complex technology feel polished, approachable, and reli
 <div align="center">
   <img height="165" alt="Berny's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=BernyCampos&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=CDD6F4&amp;icon_color=38BDF8" />
   <img height="165" alt="Most used languages across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernyCampos&amp;layout=compact&amp;langs_count=7&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=CDD6F4" />
-</div><div align="center">
+</div>
+
+<div align="center">
   <sub>Build thoughtfully · Ship reliably · Keep improving</sub>
 </div>
