@@ -26,25 +26,33 @@ My goal is simple: make complex technology feel polished, approachable, and reli
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/BernyCampos/VetraTheme">VetraTheme</a></h3>
+      <p>A customizable glassmorphism theme for Pelican Panel, featuring four visual styles, ambient lighting, custom backgrounds, flexible navigation, and accessible light/dark palettes.</p>
+      <a href="https://github.com/BernyCampos/VetraTheme"><img alt="VetraTheme stars" src="https://img.shields.io/github/stars/BernyCampos/VetraTheme?style=flat-square&amp;color=8B5CF6" /></a>
+      <a href="https://github.com/BernyCampos/VetraTheme/releases"><img alt="VetraTheme releases" src="https://img.shields.io/github/v/release/BernyCampos/VetraTheme?style=flat-square&amp;label=release&amp;color=38BDF8" /></a>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/BernyCampos/aether-ui">Aether UI</a></h3>
       <p>A highly customizable theme plugin for Pelican Panel, featuring light/dark styles, visual presets, and panel-wide branding controls.</p>
       <a href="https://github.com/BernyCampos/aether-ui"><img alt="Aether UI stars" src="https://img.shields.io/github/stars/BernyCampos/aether-ui?style=flat-square&amp;color=8B5CF6" /></a>
       <a href="https://github.com/BernyCampos/aether-ui/releases"><img alt="Aether UI releases" src="https://img.shields.io/github/v/release/BernyCampos/aether-ui?style=flat-square&amp;label=release&amp;color=38BDF8" /></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/BernyCampos/Aurora-Glass">Aurora Glass</a></h3>
       <p>A glass-inspired appearance plugin for Pelican Panel, with configurable palettes, transparency, blur, layouts, and light/dark modes.</p>
       <a href="https://github.com/BernyCampos/Aurora-Glass"><img alt="Aurora Glass stars" src="https://img.shields.io/github/stars/BernyCampos/Aurora-Glass?style=flat-square&amp;color=8B5CF6" /></a>
       <a href="https://github.com/BernyCampos/Aurora-Glass/releases"><img alt="Aurora Glass releases" src="https://img.shields.io/github/v/release/BernyCampos/Aurora-Glass?style=flat-square&amp;label=release&amp;color=38BDF8" /></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/BernyCampos/pelican-webhost">Berny WebHost</a></h3>
       <p>A Pelican-compatible web hosting egg and Docker stack using Nginx and PHP-FPM, with optional WordPress and Git deployment.</p>
       <a href="https://github.com/BernyCampos/pelican-webhost"><img alt="Berny WebHost stars" src="https://img.shields.io/github/stars/BernyCampos/pelican-webhost?style=flat-square&amp;color=8B5CF6" /></a>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3>What I'm building</h3>
       <p>Discord audio experiences, modular developer tools, Minecraft server ecosystems, and infrastructure that is easier to deploy and maintain.</p>
       <a href="https://github.com/BernyCampos?tab=repositories"><img alt="See more projects" src="https://img.shields.io/badge/View-all%20projects-38BDF8?style=flat-square&amp;labelColor=111827" /></a>
