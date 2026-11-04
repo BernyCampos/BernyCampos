@@ -103,8 +103,8 @@ My goal is simple: make complex technology feel polished, approachable, and reli
 ### GitHub activity
 
 <div align="center">
-  <img height="165" alt="Berny's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=BernyCampos&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=CDD6F4&amp;icon_color=38BDF8" />
-  <img height="165" alt="Most used languages across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernyCampos&amp;layout=compact&amp;langs_count=7&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=CDD6F4" />
+  <img height="165" alt="Berny's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=BernyCampos&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=CDD6F4&amp;icon_color=38BDF8" />
+  <img height="165" alt="Most used languages across public repositories" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BernyCampos&amp;layout=compact&amp;langs_count=7&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=CDD6F4" />
 </div>
 
 <div align="center">
